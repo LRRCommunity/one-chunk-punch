@@ -1,0 +1,5 @@
+name: OneChunkPunch
+description: One chuuuuuuuuuuunk!
+main: gq.witch.onechunk.OneChunkPlugin
+api-version: 1.13
+version: 0.1.0
